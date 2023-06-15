@@ -14,22 +14,25 @@
 
 - 💬 Lover of **design/visual** part
 
-- 📫 How to reach me **pjunqueiracardozo@hotmail.com**
-
 - ⚡ Trying to be better **every day**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/paulo-junqueira-2356641a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junqueira's linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/paulojunqueiira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junqueira's instagram" height="30" width="40" /></a>
-<a href="https://wa.me/5521971439324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="junqueira's whatsapp" height="30" width="40" /></a>
-</p>
+### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
+[![Gmail Badge](https://img.shields.io/badge/-pjunqueiracardozo@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.instagram.com/rodrigo.goncalves.s/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whastapp-128C7E?style=flat-square&logo=Whatsapp&logoColor=white&link=https://https://wa.me/5521971439324)](https://wa.me/5521971439324)
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <br>
   
----
+<h2 align="center">
+  My Github Stats
+</h2>
 <p align="left">
 <img width="470em" src="https://github-readme-stats.vercel.app/api?username=paulojunqueiira&show_icons=true&theme=dracula" alt="Avila's stats"/>
 <img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojunqueiira&layout=compact&theme=dracula" alt="Avila's most languages"/>
