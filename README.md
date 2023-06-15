@@ -1,7 +1,8 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">  Hey, there!! I'm Paulo Junqueira! <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="30px"></h1>
 <h3 align="center">A brazilian student of systems analysis</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="580em"  src="https://raw.githubusercontent.com/PauloJunqueiira/paulojunqueiira/main/3.png">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulojunqueiira&label=Profile%20views&color=0e75b6&style=flat" alt="Junqueira's page views" /> </p>
