@@ -24,13 +24,13 @@
 
   
 
-📚 Currently studying at Universidade Veiga de Almeida, I am passionate about web development and eager to share my journey with you.
+📚 Currently **in my first semester at Universidade Veiga de Almeida**, I am passionate about web development and eager to share my journey with you
 
-💻 I'm actively learning HTML, CSS, and JavaScript, honing my skills to build beautiful and functional websites. The design and visual aspects of development hold a special place in my heart, as I strive to create captivating digital experiences.
+💻 **Learning HTML, CSS, and JavaScript**, I'm dedicated to building beautiful and functional websites. With a keen eye for design, I strive to create captivating digital experiences.
 
-🚀 Every day, I embark on a quest to improve myself and push the boundaries of my knowledge. Join me on this exciting journey as I explore new technologies, experiment with innovative solutions, and evolve as a developer.
+🚀 Join me on this exciting journey as I push the boundaries of my knowledge, exploring new technologies and experimenting with innovative solutions.
 
-Feel free to explore my projects, share feedback, and let's grow together as we shape the future of web development! 🌟
+Let's shape the future of web development together! Feel free to explore my projects and share feedback. 🌟
 
 <br>
 
