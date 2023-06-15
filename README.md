@@ -48,12 +48,22 @@ Let's shape the future of web development together! Feel free to explore my proj
 <h2 align="center">
   My Github Stats
 </h2>
-<p align="left">
-<img width="470em" src="https://github-readme-stats.vercel.app/api?username=paulojunqueiira&show_icons=true&theme=dracula" alt="Avila's stats"/>
-<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojunqueiira&layout=compact&theme=dracula" alt="Avila's most languages"/>
-</p>
-
 
 <p align="center">
-<img width="470em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulojunqueiira&&theme=dracula" alt="paulojunqueiira" />
-</p> 
+  <a href="https://github.com/paulojunqueiira">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulojunqueiira&theme=radical&border=7F3FBF&background=0D1117" alt="Junqueira's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulojunqueiira&theme=radical" alt="Al Junqueira's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/paulojunqueiira"><img alt="Al Junqueira's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=paulojunqueiira&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/paulojunqueiira"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paulojunqueiira&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
