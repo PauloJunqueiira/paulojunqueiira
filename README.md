@@ -33,6 +33,11 @@
 <img width="470em" align="center" src="https://github-readme-stats.vercel.app/api?username=paulojunqueiira&show_icons=true&locale=en&theme=dracula" alt="paulojunqueiira" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulojunqueiira&&theme=dracula" alt="paulojunqueiira" />
 </p>
+  
+<p align="left">
+<img width="470em" src="https://github-readme-stats.vercel.app/api?username=GM7Avila&show_icons=true&theme=nord" alt="Avila's stats"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GM7Avila&layout=compact&theme=nord" alt="Avila's most languages"/>
+</p>
 
 <p align="center">
 <img align="center" width="355em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=paulojunqueiira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="paulojunqueiira" />
