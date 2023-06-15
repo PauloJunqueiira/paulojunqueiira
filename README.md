@@ -31,7 +31,7 @@
 ---
 <p align="left">
 <img width="470em" align="center" src="https://github-readme-stats.vercel.app/api?username=paulojunqueiira&show_icons=true&locale=en&theme=dracula" alt="paulojunqueiira" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulojunqueiira&&theme=dracula" alt="paulojunqueiira" />
+<img width="355em" height="195.250" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulojunqueiira&&theme=dracula" alt="paulojunqueiira" />
 </p>
   
 <p align="left">
