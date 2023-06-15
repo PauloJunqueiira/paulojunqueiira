@@ -45,6 +45,7 @@ Let's shape the future of web development together! Feel free to explore my proj
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/language-blue?style=for-the-badge&logo=C&logoColor=white) 
  
+<br>
 <h2 align="center">
   My Github Stats
 </h2>
