@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/paulojunqueiira" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Junqueira's twitter" /></a> </p>
 
-- 🔭 I’m currently studying on **Universidade Veiga de Almeida - UVA**
+- 🔭 I’m currently studying on **Universidade Veiga de Almeida**
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
