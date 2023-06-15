@@ -22,13 +22,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulojunqueiira&label=Profile%20views&color=0e75b6&style=flat" alt="Junqueira's page views" /> </p>
 
-  🔭  &emsp; I’m currently studying on **Universidade Veiga de Almeida**
+  
 
-  🌱  &emsp; I’m currently learning **HTML, CSS and JavaScript**
+📚 Currently studying at Universidade Veiga de Almeida, I am passionate about web development and eager to share my journey with you.
 
-  💬  &emsp; Lover of **design/visual** part
+💻 I'm actively learning HTML, CSS, and JavaScript, honing my skills to build beautiful and functional websites. The design and visual aspects of development hold a special place in my heart, as I strive to create captivating digital experiences.
 
-  ⚡  &emsp; Trying to be better **every day**
+🚀 Every day, I embark on a quest to improve myself and push the boundaries of my knowledge. Join me on this exciting journey as I explore new technologies, experiment with innovative solutions, and evolve as a developer.
+
+Feel free to explore my projects, share feedback, and let's grow together as we shape the future of web development! 🌟
 
 <br>
 
