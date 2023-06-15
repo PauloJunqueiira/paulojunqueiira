@@ -25,13 +25,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulojunqueiira&label=Profile%20views&color=0e75b6&style=flat" alt="Junqueira's page views" /> </p>
 
-- 🔭 I’m currently studying on **Universidade Veiga de Almeida**
+  🔭  &emsp; I’m currently studying on **Universidade Veiga de Almeida**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+  🌱  &emsp; I’m currently learning **HTML, CSS and JavaScript**
 
-- 💬 Lover of **design/visual** part
+  💬  &emsp; Lover of **design/visual** part
 
-- ⚡ Trying to be better **every day**
+  ⚡  &emsp; Trying to be better **every day**
 
 ### 💬 Find me elsewhere
 
