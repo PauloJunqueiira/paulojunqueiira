@@ -51,6 +51,13 @@ Let's shape the future of data-driven innovation together! Feel free to explore 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=white)  
+
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></span>  
+<span><img src="https://img.shields.io/badge/PowerQuery-017F8C?style=for-the-badge&logo=microsoft&logoColor=white" /></span>  
+<span><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></span>  
+<span><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></span>  
+<span><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></span>  
+<span><img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=white" /></span>  
 <br>
 <h2 align="center">
   My Github Stats
