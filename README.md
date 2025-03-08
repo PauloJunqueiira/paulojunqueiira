@@ -2,7 +2,7 @@
 <h3 align="center">A brazilian student of Data Engineering and Data Analysis</h3> <br>
 
 <p align="center">
- <a href="https://https://api.whatsapp.com/send/?phone=5521997380142&text&type=phone_number&app_absent=0" target="blank">
+ <a href="https://wa.me/5521997380142" target="blank">
   <img src="https://img.shields.io/badge/Whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/paulo-junqueira-2356641a0/" target="_blank">
